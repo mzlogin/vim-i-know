@@ -71,8 +71,8 @@
 
 ### 文件浏览
 
-* [nerdtree](https://github.com/scrooloose/nerdtree)
 * [LeaderF](https://github.com/Yggdroot/LeaderF)
+* [nerdtree](https://github.com/scrooloose/nerdtree)
 
 ### 注释
 
